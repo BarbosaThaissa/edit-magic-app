@@ -1,0 +1,125 @@
+APP EDITOr DE FOTO E VIDEO: IDEAS E SCRIPT DO PROJETO:
+
+Para criar um aplicativo de edição de fotos, você precisará seguir algumas etapas importantes. Aqui estão algumas das principais etapas do processo de desenvolvimento:
+
+1 - Pesquisa e planejamento: Antes de começar a criar o aplicativo, é importante fazer uma pesquisa de mercado para entender as necessidades e preferências dos usuários. Com base nessa pesquisa, você pode planejar os recursos e funcionalidades do aplicativo.
+
+2 - Design: Uma vez que você tenha um plano para o aplicativo, é importante criar uma estrutura de design que seja fácil de usar e agradável visualmente. Você pode contratar um designer para ajudá-lo nessa etapa.
+
+3 - Desenvolvimento do Front-End: A próxima etapa é desenvolver a interface do usuário (UI) do aplicativo usando linguagens de programação como HTML, CSS e JavaScript. Você também pode usar um framework de front-end como React, Angular ou Vue.js para acelerar o processo.
+
+4 - Desenvolvimento do Back-End: O próximo passo é desenvolver a lógica do aplicativo e a funcionalidade de back-end. Você pode usar uma linguagem de programação como Python, Ruby, Node.js ou PHP e um banco de dados para armazenar e gerenciar dados do aplicativo.
+
+5 - Integração de bibliotecas de edição de fotos: Uma das partes mais importantes de um aplicativo de edição de fotos é a capacidade de editar imagens. Para fazer isso, você pode usar bibliotecas de edição de fotos, como o OpenCV ou o Adobe Creative SDK, que oferecem recursos de edição de fotos pré-construídos.
+
+6 - Testes: Depois que o aplicativo estiver desenvolvido, é importante realizar testes para garantir que ele esteja funcionando corretamente e que todos os recursos e funcionalidades estejam operando como deveriam.
+
+7 - Lançamento: Depois que o aplicativo estiver testado e aprovado, é hora de lançá-lo no mercado. Você pode disponibilizá-lo nas lojas de aplicativos, como a App Store ou a Google Play Store, ou disponibilizá-lo como um aplicativo web.
+
+8 - Em termos de tecnologias, existem várias opções que você pode usar para construir um aplicativo de edição de fotos. Aqui estão algumas sugestões:
+
+TECNOLOGIAS QUE VOU UTILIZAR:
+
+FRONT-END: React, React Native, TypeScript, TailwindCSS / Styled-Components.
+BACK-END: Java, Node.js.
+BIBLIOTECAS DE EDIÇÃO DE FOTOS: OpenCV, Adobe Creative SDK
+PLATAFORMA DE OSPEDAGEM: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+
+LEMBRAR: Certifique-se de que o aplicativo seja fácil de usar e ofereça recursos avançados de edição de fotos para torná-lo atraente para os usuários.
+
+_______________________________________________________________________________________________________________
+
+O QUE OS USUARIOS ESPERAM QUE TENHAM NO APP
+
+---Em resumo, os usuários esperam um aplicativo fácil de usar, repleto de recursos, flexível e acessível para ajudá-los a criar imagens e vídeos impressionantes.
+
+1- INTERFACE AMIGÁVEL: Um usuário espera uma interface de usuário fácil de usar e intuitiva. Os menus devem ser bem organizados e os recursos devem ser facilmente acessíveis.
+
+
+2- FERRAMENTAS DE EDIÇÃO AVANÇADAS: Os usuários esperam ferramentas de edição avançadas que lhes permitam ajustar a cor, o brilho, o contraste, o corte, o redimensionamento, a correção de olhos vermelhos e outros aspectos das imagens e vídeos.
+
+
+3- EFEITOS E FILTROS: Os usuários esperam uma ampla variedade de efeitos e filtros que possam ser aplicados em suas fotos e vídeos para dar-lhes um visual diferenciado.
+
+
+4- COMPATILHAMENTO FÁCIL: Um usuário espera ser capaz de compartilhar facilmente as fotos e vídeos editados em várias plataformas de mídia social e aplicativos de mensagens.
+
+
+5- ARMAZENAMENTO EM NUVEM: Os usuários esperam a capacidade de armazenar suas fotos e vídeos editados na nuvem, permitindo que acessem e editem em qualquer dispositivo.
+
+
+6- PERSONALIZAÇÃO: Os usuários apreciam a capacidade de personalizar o aplicativo de acordo com suas preferências, seja alterando o layout, escolhendo temas ou adicionando atalhos.
+
+
+7- EDIÇÃO EM TEMPO REAL: Os usuários esperam poder visualizar as edições em tempo real, para que possam ajustá-las instantaneamente, sem precisar fazer upload ou salvar a imagem ou vídeo antes de ver as mudanças.
+
+
+8- COMPATIBILIDADE: Os usuários esperam que o aplicativo seja compatível com uma ampla variedade de dispositivos e sistemas operacionais.
+
+
+9- PREÇO ACESSÍVEL: Os usuários esperam que o preço do aplicativo seja justo e acessível, especialmente se desejam recursos avançados.
+_______________________________________________________________________________________________________________
+FUNCIONALIDADES QUE VAI TER NO MEU APP
+
+---Em resumo, o aplicativo ideal de edição de fotos e vídeos deve ter uma interface fácil de usar, oferecer uma ampla variedade de recursos de edição avançados, efeitos e filtros, além de permitir compartilhamento fácil e armazenamento em nuvem, personalização, edição em tempo real e compatibilidade com diversos dispositivos e sistemas operacionais.
+
+1- INTEFACE DE USUÁRIO INTUITIVA E FÁCIL DE USAR: A interface de usuário deve ser projetada de forma a tornar fácil e intuitiva a navegação entre as ferramentas e recursos disponíveis.
+
+
+2- FERRAMENTAS DE EDIÇÃO AVANÇADAS: Recursos de edição avançados como ajuste de cor, brilho, contraste, saturação, nitidez, balanço de branco, correção de olhos vermelhos, corte, redimensionamento e rotação devem estar disponíveis no aplicativo.
+
+
+3- EFEITOS E FILTROS: Uma ampla variedade de efeitos e filtros deve ser disponibilizada para que os usuários possam aplicá-los em suas fotos e vídeos e dar um visual diferenciado.
+
+
+4- COMPATILHAMENTO FÁCIL: O aplicativo deve permitir o compartilhamento das fotos e vídeos editados em várias plataformas de mídia social e aplicativos de mensagens.
+
+
+5- ARMAZENAMENTO EM NUVEM: Os usuários devem ter a opção de armazenar suas fotos e vídeos editados na nuvem, permitindo que acessem e editem em qualquer dispositivo.
+
+
+6- PERSONALIZAÇÃO: O aplicativo deve permitir que os usuários personalizem a interface do usuário, escolhendo temas, alterando o layout ou adicionando atalhos.
+
+
+7- EDIÇÃO EM TEMPO REAL: Os usuários devem ser capazes de visualizar as edições em tempo real, permitindo que ajustem as configurações instantaneamente.
+
+
+8- COMPATIBILIDADE: O aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais.
+
+
+9- RECURSOS ADICIONAIS: Alguns recursos adicionais que podem ser incluídos em um aplicativo de edição de fotos e vídeos incluem a capacidade de adicionar texto, adesivos, molduras, aprimoramento automático de imagens, suporte para vídeos em câmera lenta ou em time-lapse, entre outros.
+_______________________________________________________________________________________________________________
+COMO POSSO LUCRAR COM O APP
+
+--Sobre como incluir as formas de lucrar em um aplicativo de edição de fotos e vídeos:
+
+1 - ANÚNCIOS: Você pode exibir anúncios em diferentes partes do aplicativo, como em telas de carregamento, no menu principal, na tela de edição ou na galeria de fotos. É importante ter cuidado para não tornar a experiência do usuário incômoda ou confusa.
+
+2- VENDA DE RECURSOS ADICIONAIS: Você pode vender recursos adicionais como pacotes de adesivos, filtros, molduras e efeitos especiais. Certifique-se de que esses recursos adicionais agreguem valor e melhorem a experiência do usuário.
+
+3- OFERECER PLANOS BÁSICOS E PREMIUM: Você pode oferecer um plano básico com recursos limitados, como ajustes básicos de cor e brilho e alguns filtros pré-definidos. O plano premium pode incluir recursos avançados, como ajustes de cor mais precisos, ferramentas de retoque avançadas, filtros exclusivos e recursos adicionais como adesivos e molduras. Os usuários que desejam recursos adicionais podem pagar pela assinatura do plano premium.
+
+4- OBESERVA COMO OUTROS SOFTWARES ESTÃO FAZENDO.
+
+_______________________________________________________________________________________________________________
+COMO VAI SER O DESIGN DO APP - FIGMA 
+
+_______________________________________________________________________________________________________________
+COMO VOU FAZER O FRONT-END DO APP (WEB E MOBILE) - REACT AND REACT NATIVE
+
+_______________________________________________________________________________________________________________
+COMO VOU FAZER O BACK-END DO APP - JAVA
+
+_______________________________________________________________________________________________________________
+SE E QUAiS BIBLIOTECAS DE EDIÇÃO DE FOTOS E VIDEOS VOU USAR - OpenCV, Adobe Creative SDK...
+
+_______________________________________________________________________________________________________________
+FAZER TESTE - JEST E TESTIN LIB... 
+
+______________________________________________________________________________________________________________
+NUVEM O QUE USAR - Amazon Web Services (AWS), Microsoft Azure OU Google Cloud Platform (GCP)
+
+_________________________________________________________________________________________________________________________
+FAZER O LANÇAMENTO NO GOOGLE STORY, APP STORY E NA WEB
+
+_______________________________________________________________________________________________________________
