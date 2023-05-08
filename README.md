@@ -4,3 +4,4 @@
 
 - Agora foi
   - Let's go!
+  - criei as pastas
